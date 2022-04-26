@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="mndfHa7hn06uEPcL2D2efw" FilePath="C:\Windows\System32\snippingtool.exe" Selector="&lt;wnd app='snippingtool.exe' cls='Microsoft-Windows-SnipperEditor' title='Snipping Tool'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0znOdkP7LgUio9VFcho2lGQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9a1c1dc5bcb27fc54dc768e0f717daae.png" xmlns="">0HkQreA_tykOtZlojBTWPOg</imageRef>
+</TargetApp>

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "LOCiJEis-EG23QptQDtYJA",
+  "Reference": "pKlTY3POw0-uehjyVcTjUg/LOCiJEis-EG23QptQDtYJA",
+  "Name": "Snipping Tool",
+  "Type": "App",
+  "Created": "2022-04-20T09:57:27.3133554Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T09:57:27.3133554Z"
+}

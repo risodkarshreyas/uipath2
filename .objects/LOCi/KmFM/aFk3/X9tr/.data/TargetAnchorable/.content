@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="8aDsDqiBkUelgBDI_0SArw" DesignTimeRectangle="12, 130, 1251, 599" FriendlyName="'client'" FullSelectorArgument="&lt;wnd cls='Microsoft-Windows-SnipperEditorPanel' /&gt;&lt;ctrl role='client' /&gt;" FuzzySelectorArgument="&lt;wnd cls='Microsoft-Windows-SnipperEditorPanel' /&gt;&lt;ctrl role='client' automationid='' /&gt;" Guid="17f45bfd-de9a-4fc7-af52-d40e47111c32" ScopeSelectorArgument="&lt;wnd app='snippingtool.exe' cls='Microsoft-Windows-SnipperEditor' title='Snipping Tool' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0IXScRqUeq0uNK8jVtEmpZw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2d31ce31e7328e6ab3bd8c0dcfb899c2.png" xmlns="">0z301niFAtUyh_fFcsZ5FLg</imageRef>
+</TargetAnchorable>

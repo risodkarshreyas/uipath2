@@ -1,0 +1,13 @@
+﻿{
+  "Id": "aFk3rRHAOUCGQQ_MPf0mSA",
+  "Reference": "pKlTY3POw0-uehjyVcTjUg/aFk3rRHAOUCGQQ_MPf0mSA",
+  "ParentRef": "pKlTY3POw0-uehjyVcTjUg/KmFMfCYzLkiSC9NYD5FaDQ",
+  "Name": "Snipping Tool",
+  "Type": "Screen",
+  "Created": "2022-04-20T09:57:27.363571Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-20T09:57:27.363571Z"
+}
